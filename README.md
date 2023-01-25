@@ -22,7 +22,7 @@ Ein einfaches 2D-Plattformspiel erstellt mit Pygame in Python.
 
 ## Autor
 
-* **Patrice Graczyk** - [ Neural-Nomad ](https://github.com/Neural-Nomad)
+* **ChatGPT** - [ Neural-Nomad ](https://github.com/Neural-Nomad)
 
 ## Lizenz
 
