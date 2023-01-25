@@ -6,13 +6,12 @@ Ein einfaches 2D-Plattformspiel erstellt mit Pygame in Python.
 - Pygame
 
 ## Installation
-1. Installieren Sie Python von der offiziellen Website (https://www.python.org/downloads/)
-2. Installieren Sie Pygame, indem Sie in der Kommandozeile `pip install pygame` eingeben
-3. Laden Sie das Repository herunter oder klonen Sie es mit `git clone https://github.com/username/2D-Plattformspiel.git`
+1. Installieren Sie Python von der offiziellen Website (https://github.com/Neural-Nomad/2D-Plattformspiel)
+2. Laden Sie das Repository herunter oder klonen Sie es mit `git clone https://github.com/username/2D-Plattformspiel.git`
 
 ## Benutzung
 1. Navigieren Sie in der Kommandozeile zum Verzeichnis des Projekts
-2. Führen Sie das Spiel mit `python main.py` aus
+2. Führen Sie das Spiel mit `python game.py` aus
 3. Verwenden Sie die Pfeiltasten, um den Spieler zu steuern
 
 ## Anpassung
